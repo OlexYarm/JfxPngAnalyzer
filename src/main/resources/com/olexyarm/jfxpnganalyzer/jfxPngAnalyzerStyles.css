@@ -1,0 +1,37 @@
+.PngFileAnalyzer {
+
+    #tv-seq {
+        -fx-alignment: center-right;
+        -fx-pref-width: 3em;
+    }
+
+    #tv-type {
+        -fx-alignment: center;
+        -fx-pref-width: 5em;
+    }
+
+    #tv-len {
+        -fx-alignment: center-right;
+        -fx-pref-width: 6em;
+    }
+
+    #tv-crc {
+        -fx-alignment: center-right;
+        -fx-pref-width: 6em;
+    }
+
+    #tv-data {
+        -fx-alignment: center-left;
+        -fx-pref-width: 10em;
+    }
+
+    #tv-data-values {
+        -fx-alignment: center-left;
+        -fx-pref-width: 10em;
+    }
+
+    #tv-errors {
+        -fx-alignment: center-left;
+        -fx-pref-width: 10em;
+    }
+}
